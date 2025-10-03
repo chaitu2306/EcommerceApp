@@ -81,8 +81,7 @@
   <build>
     <finalName>EcommerceApp</finalName>
   </build>
-</project>
-<distributionManagement>
+  <distributionManagement>
   <repository>
     <id>nexus-releases</id>
     <url>http://http://13.203.196.134:8081/repository/maven-releases/</url>
@@ -92,3 +91,5 @@
     <url>http://13.203.196.134:8081/repository/maven-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
+</project>
+
